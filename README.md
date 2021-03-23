@@ -2,7 +2,7 @@
 
 #how to install
 
-wget -O installer https://raw.githubusercontent.com/ryanfauzi1/xderm-mini_GUI/main/installer && chmod +x installer && ./installer
+wget -O installer https://raw.githubusercontent.com/faizzart/xderm-mini_GUI/main/installer && chmod +x installer && ./installer
 
 #install loginpage:
 
