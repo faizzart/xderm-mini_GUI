@@ -10,9 +10,7 @@ if ($_GET['login']) {
          header("Location: index.php");
          exit;
      } else 
-echo '<script type="text/javascript">
-alert("Username atau Password salah!");
-</script>';
+echo header("Location: index.php");
 }
 echo '<!DOCTYPE html><html><head>
 <meta name="viewport" content="width=device-width">
